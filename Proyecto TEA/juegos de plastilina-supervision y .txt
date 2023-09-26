@@ -1,0 +1,13 @@
+juegos de plastilina-supervision y plastilinas sin forma. (depende de si al niño le gusta lo snesorial).
+puzzle (coordinacion, concentracion, la coordinacion mano-ojo la memoria.
+busca juegos que respondan a sus intereses, si son otros niños favorece la socializacion.
+jugar a las carreas o circuito de obstaculos, favorece la mortitricidad.
+juegos con pinzas  con los deods
+podemos pedir que escoja las pinzas que les pedimos, psicomotrocididad.
+juego simbolico: representar una realidad a traves de otras. ( no se reorecmiienda mucho) pero se puede realizar en roles como enfermera.
+juegos sensoriales (teniendo en cuenta los gustos de cada uno) como luces, botones, musica, etxturas
+
+aplicacion dirigido a necesidades terapeutas con TEA 
+1. entana que tendra el titulo "Bienvenidos a nuestro juego interactivo" "Empieza con esta aventura", al fondo tendra una imagen animada que debemos colocar y al centro un boton que diga "Empezar".
+2. Cuando Haga clic en el boton "Empezar" Nos llevara a una ventana donde nos mostrara un menu de botones con 3 opciones: "Juego 1", "Juego 2" y "Juego 3" al fondo tambien debe tener un fondo animado y bonito para los niños.
+3. Si hace clic en el primer boton el cual es "Juego 1" consistira es un juego de reconocimiento facial, el cual funciona de la siguiente manera.Van a existir 4 tipos de categorias: feliz, triste, enojado, asustado, estas categorias apareceran en la parte superior en todo el largo de la pantalla, debajo nos mostraran 4 imagenes que nosotros colocaremos la direccion, donde deacuerdo a la expresion que tengan deberan arrastar la imagen a la categoria que pertenece, esto se equivale a puntaje si lo hacen bien, si terminan el juego aparece un mensaje de felicitaciones animado y se cierra esa ventana y te devuelve a la ventana anterior de menu.
